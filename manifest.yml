@@ -1,0 +1,10 @@
+---
+applications:
+- name:    mobile-cloud-nodjs-backend
+  host:    mobile-cloud-nodjs-backend-${random-word}
+  memory:  64M
+  command: node app.js
+  env:
+    APP_USER_NAME: test_username
+    APP_USER_PASSWORD: test_password
+    
