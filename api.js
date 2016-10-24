@@ -2,7 +2,7 @@ var appRouter = function(app) {
     
     //get to /checklogin display the message.
     app.get("/checklogin",function(req,res) {
-        res.send("hello! , This is nodeJs backend for mobile cloud app. Post to /checklogin with user_name and password.")
+        res.send("hello! , This is nodeJs backend for mobile cloud app. Post to /checklogin with user_name and user_password.")
     });
     
 
