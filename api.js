@@ -1,5 +1,4 @@
-var appRouter = function(app) {
-    
+var appRouter = function(app) {    
     
     /*Home page of the app*/
     app.get("/",function(req,res) {
@@ -31,6 +30,7 @@ var appRouter = function(app) {
           console.log( "Did not receive any credential" );          
           return res.send( JSON.stringify( {"result":"error", "description" : "Credential missing" } ) );
       }
+
       //This condition simply validates the user name and
       //password against the actual credentials stored in environment variables
       else if( req.body.user == process.env.APP_USER_NAME &&
@@ -48,4 +48,6 @@ var appRouter = function(app) {
       }      
    }); 
 }
+ 
+module.exports = appRouter;
  
