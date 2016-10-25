@@ -16,7 +16,7 @@ Server Application - NodeJS. The server exposes one REST API that takes user cre
 
 2. [Server Application using node-red](https://github.com/snippet-java/mobile_cloud_node-red_backend) 
 
-3. [Android Native Client Application](https://www.google.com) 
+3. [Android Native Client Application](https://github.com/snippet-java/mobile_cloud_android_frontend) 
 
 Deploy this application to your bluemix account by clicking:
 
