@@ -10,10 +10,6 @@ Server Application - NodeJS. The server exposes one REST API that takes user cre
 
 4. [Part 3 - Server in NodeJS] (https://youtu.be/gh57gdSIzE8?list=PLIhrPGqyfMrjtY2ul21FVudVJ714bfuRn)
 
-5. [Advanced 1 - Creating application in Bluemix] (https://youtu.be/Ld_bAWyIBH0?list=PLIhrPGqyfMrjtY2ul21FVudVJ714bfuRn)
-
-6. [Advanced 2 - Deploying code to Bluemix app] (https://youtu.be/Yc2PZlnnuOY?list=PLIhrPGqyfMrjtY2ul21FVudVJ714bfuRn)
-
 ### Other Important Resources
 
 1. [Server Application using Java](https://github.com/snippet-java/mobile_cloud_java_backend) 
